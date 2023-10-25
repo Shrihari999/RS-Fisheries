@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+section.main-content {
+    margin: 20px;
+}
+
+section.enquiry {
+    margin: 20px;
+}
+
+section.enquiry form {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+section.contact {
+    margin: 20px;
+}
+.fishima{
+    height: 200px;
+    width:200px;
+    border-radius: 50%;
+    margin-left: 45%;
+}
